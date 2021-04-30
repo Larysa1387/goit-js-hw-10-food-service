@@ -35,7 +35,7 @@ function currentTheme() {
   }
 }
 
-// Add cards menu
+// Add cards menu murkup
 const menuRef = document.querySelector('.js-menu');
 const markup = createMarkupCards(menu);
 function createMarkupCards(menu) {
